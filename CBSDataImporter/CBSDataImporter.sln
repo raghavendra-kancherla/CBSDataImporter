@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBSDataImporter", "CBSDataImporter\CBSDataImporter.csproj", "{843D8B83-250A-43B8-8DF2-24E4810BBFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843D8B83-250A-43B8-8DF2-24E4810BBFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843D8B83-250A-43B8-8DF2-24E4810BBFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843D8B83-250A-43B8-8DF2-24E4810BBFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843D8B83-250A-43B8-8DF2-24E4810BBFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32750EC-0A99-4492-9CDE-E812E9CCED2C}
+	EndGlobalSection
+EndGlobal
